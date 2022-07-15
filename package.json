@@ -1,0 +1,24 @@
+{
+  "name": "@esmvc/mvc",
+  "version": "0.0.1",
+  "description": "The MVC classes inspired from Kohana framework's pattern",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-vm-modules ../../node_modules/jest/bin/jest.js --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esmvc/mvc.git"
+  },
+  "keywords": [
+    "ESM",
+    "MVC"
+  ],
+  "author": "Eric Sato",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/esmvc/mvc/issues"
+  },
+  "homepage": "https://github.com/esmvc/mvc#readme"
+}
